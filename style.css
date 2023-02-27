@@ -2,7 +2,6 @@ body {
     background: rgb(129, 199, 226);
   }
   p {
-    float:left;
     color: rgb(0, 19, 124);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
@@ -20,8 +19,7 @@ body {
     color: darkcyan;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
   }
-img{
-  float:right;
+img {
   width:250px;
   height:250px;
   border-style:groove;
